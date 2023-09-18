@@ -1,0 +1,6 @@
+framework module Pods_BMTask {
+  umbrella header "Pods-BMTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

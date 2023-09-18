@@ -1,10 +1,10 @@
-# earning-Application-for-Banque-Misr
+# Learning-Application-for-Banque-Misr
 
 I'd be happy to help you create a README file for your GitHub repository. Here's a sample README file tailored to your iOS learning application for Banque Misr:
 
 ---
 
-# Earning Application for Banque Misr
+# Learning Application for Banque Misr
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/hamdy-youssef/earning-Application-for-Banque-Misr)
 ![GitHub contributors](https://img.shields.io/github/contributors/hamdy-youssef/earning-Application-for-Banque-Misr)
